@@ -17,3 +17,5 @@ then run the dev server
 ```zsh
 npm run dev # or yarn dev
 ```
+
+It's as simple as that!
