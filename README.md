@@ -1,9 +1,11 @@
-# Three.js starter project with Vite, Tailwind CSS & Typescript
+# Three.js starter project using Vite
+
+### Uses TypeScript and comes with GSAP & Tailwind CSS installed
 
 To get going with this starter project, first degit the repo
 
 ```zsh
-npx degit github:tomhine/vite-three-tailwind-ts
+npx degit github:tomhine/three-js-starter
 ```
 
 then move into the repo and install dependecies
